@@ -5,7 +5,7 @@ var quantity;
 var con = mysql.createConnection({
 	host     : 'localhost',
 	user     : 'root',
-	password : '13748abc',
+	password : '?????',
 	database : 'bamazon'
 });
 
